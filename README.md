@@ -1,5 +1,3 @@
-![Banner Image](https://media.licdn.com/dms/image/D4D16AQG6Bu3BFLC9rg/profile-displaybackgroundimage-shrink_350_1400/0/1714161070301?e=1728518400&v=beta&t=RsjOdcWIzlebmxYrkQQm0GksBNwZnIyO1rymrsIF0FE)
-
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br/>I'm a software engineer 👨🏻‍💻</h3>
 
 <p align="center">
