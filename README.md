@@ -43,22 +43,8 @@
 
 ## 🤓 Projects & GitHub
 
-![GitHub contribution snake](./hussam-contribution-grid-snake.svg)
-<!-- <details open>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hussam-001&bg_color=0D1117&title_color=fb8c00&text_color=fdfdfd&icon_color=fb8c00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussam-001&bg_color=0D1117&title_color=fb8c00&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
-</details>
+![GitHub contribution snake svg](./hussam-contribution-grid-snake.svg)
 
-<details open>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hussam-001&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
-  </p>
-</details> -->
 <details open>
   <summary><b>📈 GitHub Streaks</b></summary>
   <br />
