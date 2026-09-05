@@ -1410,12 +1410,6 @@
 </use>
 <g filter="url(#glow)" transform="translate(47.5 43.5)">
   <animateMotion dur="16.0s" repeatCount="indefinite" rotate="auto" calcMode="linear" additive="sum"><mpath xlink:href="#motionRoute" href="#motionRoute"/></animateMotion>
-  <g transform="translate(-1,-7)">
-    <rect class="head" x="-6" y="0" width="17" height="14" rx="4"/>
-    <rect class="head-hi" x="2" y="2" width="7" height="10" rx="2" opacity=".7"/>
-    <rect class="eye" x="5.5" y="2.2" width="2.5" height="2.5" rx=".4"/>
-    <rect class="eye" x="5.5" y="9.2" width="2.5" height="2.5" rx=".4"/>
-  </g>
 </g>
 <text class="foot" x="932" y="162" text-anchor="end">1,705 contributions · frozen 2026-09-05</text>
 </svg>
