@@ -43,7 +43,7 @@
 
 ## 🤓 Projects & GitHub
 
-![GitHub contribution snake svg](./hussam-contribution-grid-snake.svg)
+![GitHub contribution snake svg](./contribution-grid-snake.svg)
 
 <details open>
   <summary><b>📈 GitHub Streaks</b></summary>
